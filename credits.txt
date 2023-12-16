@@ -1,3 +1,11 @@
+//Furzide Remaster
+extra textures from faithful
+red nebula sky edited from the original by https://gamebanana.com/members/1415786
+(bedrock only) Java UI code and some textures by CrisXolt
+daytime sky it's not mine, got it from another pack (idk the orignal creator)
+anything else that is not mine, credits go to original creators.
+
+//old credits
 hearts are from zefew's irvyn azert originally by iSparkton, have been reshaded by Skadush
 blocks and non pvp items been modified from Richardoh
 crosshair by couleur
